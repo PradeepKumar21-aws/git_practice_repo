@@ -5,4 +5,5 @@ git add . → Add all files to staging
 git commit -m "msg" → Save changes with message
 git log → Show commit history
 git remote add origin <url> → Connect to GitHub repo
-git push origin <branch> → Upload code to GitHub
+git push origin <branch> → Upload code to main
+Git → Tracks code changes and helps manage versions locally.
