@@ -1,3 +1,4 @@
+
 git clone <url> → Copy a remote repository to local
 git status → Show current changes status
 git add <file> → Add file(s) to staging area
@@ -7,3 +8,4 @@ git log → Show commit history
 git remote add origin <url> → Connect to GitHub repo
 git push origin <branch> → Upload code to main
 Git → Tracks code changes and helps manage versions locally.
+github is repository
